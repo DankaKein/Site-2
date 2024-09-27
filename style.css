@@ -5,5 +5,8 @@
     color: red;
 }
 body {
-    background-color: rgb(255, 243, 222);
+    background-color: rgb(255, 255, 255);
+}
+.discover_now {
+    color: white;
 }
